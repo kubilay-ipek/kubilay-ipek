@@ -4,7 +4,7 @@ My name is Kubilay İpek and I have been educating myself on Data Science and Da
 Currently, I'm intermediate on Spreadsheets and a beginner with SQL, Python, R, and Tableau.
 
 - 🔭 I’m currently working on [Patika.dev](https://www.patika.dev/tr)'s Data Science Practicum. I'm really excited about it.
-- 🌱 I’m currently learning the basics of VSC, Git and GitHub.
+- 🌱 I’m currently learning the basics of Python.    
 - 📫 How to reach me: You can reach me out on my e-mail mqaraw@gmail.com, and also I'm on [Instagram](https://www.instagram.com/kubilayipekk/)!
 
 
