@@ -5,6 +5,6 @@ Currently, I'm intermediate on Spreadsheets and a beginner with SQL, Python, R, 
 
 - 🔭 I’m currently working on [Patika.dev](https://www.patika.dev/tr)'s Data Science Practicum. I'm really excited about it.
 - 🌱 I’m currently working on my skills on Python and SQL.    
-- 📫 How to reach me: You can reach me out on my e-mail mqaraw@gmail.com, and also I'm on [Instagram](https://www.instagram.com/kubilayipekk/)!
+- 📫 How to reach me: You can reach me out on my e-mail ipekubilay@gmail.com, and also I'm on [Instagram](https://www.instagram.com/kubilayipekk/)!
 
 
